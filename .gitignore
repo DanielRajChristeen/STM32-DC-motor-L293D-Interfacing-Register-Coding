@@ -1,0 +1,19 @@
+# STM32CubeIDE
+Debug/
+Release/
+.build/
+.settings/
+
+# Toolchain outputs
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# OS junk
+*.swp
+.DS_Store
+Thumbs.db
